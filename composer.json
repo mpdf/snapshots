@@ -1,0 +1,4 @@
+{
+  "name": "mpdf/snapshots",
+  "description": "Base Snapshot images for Mpdf HTML to PDF generator which are used for testing purposes"
+}
